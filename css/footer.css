@@ -1,0 +1,15 @@
+.footer{
+    background-color: #2E2F42 ;
+}
+.footer-text{
+color: #F4F4FD ;
+letter-spacing: 0.02em;
+line-height: 1.5;
+}
+.footer .logo{
+    color: #F4F4FD;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.33;
+    letter-spacing: 0.03em;
+}
