@@ -1,9 +1,16 @@
+.portfolio-list {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
 .portfolio-project {
     font-weight: 500;
     font-size: 20px;
     color: #2e2f42;
     line-height: 1.2 ;
     letter-spacing: 0.02em ;
+    margin-bottom: 8px;
 }
 
 .portfolio-type {
@@ -12,11 +19,9 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.section-title {
-    font-size: 36px;
-    color: #2e2f42;
-    text-align: center;
-    font-weight: 700;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
+.portfolio-item {
+    width: calc((100% - 2 * 24px) / 3);
+}
+.portfolio-item {
+    width: calc((100% - 2 * 24px) / 3);
 }
