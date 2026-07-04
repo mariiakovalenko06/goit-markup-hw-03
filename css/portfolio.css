@@ -22,6 +22,3 @@
 .portfolio-item {
     width: calc((100% - 2 * 24px) / 3);
 }
-.portfolio-item {
-    width: calc((100% - 2 * 24px) / 3);
-}
